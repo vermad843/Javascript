@@ -1,4 +1,7 @@
 console.log('Hello');
-console.log('Hello');
-console.log('Hello');
-alert('this is a alert');
+
+// alert('this is a alert');
+
+const b = "Something";
+console.log(b);
+
